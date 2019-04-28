@@ -11,7 +11,7 @@
 <script>
   export default {
     name: 'BookForm',
-    props: '[books]',
+    props: ['books'],
 
     data() {
       return {
